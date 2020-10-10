@@ -1,0 +1,28 @@
+Organism,URL
+Acinetobacter ursingii,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/368/825/GCF_000368825.1_Acin_ursi_CIP_107286_V1/GCF_000368825.1_Acin_ursi_CIP_107286_V1_genomic.fna.gz
+Bacillus cereus,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/007/825/GCF_000007825.1_ASM782v1/GCF_000007825.1_ASM782v1_genomic.fna.gz
+Candida albicans,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/182/965/GCF_000182965.3_ASM18296v3/GCF_000182965.3_ASM18296v3_genomic.fna.gz
+Corynebacterium accolens,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/159/115/GCF_000159115.1_ASM15911v1/GCF_000159115.1_ASM15911v1_genomic.fna.gz
+Corynebacterium diphtheriae,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/457/455/GCF_001457455.1_NCTC11397/GCF_001457455.1_NCTC11397_genomic.fna.gz
+Corynebacterium glucuronolyticum,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/176/155/GCF_900176155.1_IMG-taxon_2529292557_annotated_assembly/GCF_900176155.1_IMG-taxon_2529292557_annotated_assembly_genomic.fna.gz
+Corynebacterium pseudotuberculosis,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/144/675/GCF_000144675.1_ASM14467v1/GCF_000144675.1_ASM14467v1_genomic.fna.gz
+Corynebacterium striatum,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/156/805/GCF_002156805.1_ASM215680v1/GCF_002156805.1_ASM215680v1_genomic.fna.gz
+Cutibacterium acnes,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/008/345/GCF_000008345.1_ASM834v1/GCF_000008345.1_ASM834v1_genomic.fna.gz
+Enterobacter cloacae,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/025/565/GCF_000025565.1_ASM2556v1/GCF_000025565.1_ASM2556v1_genomic.fna.gz
+Kytococcus sedentarius,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/023/925/GCF_000023925.1_ASM2392v1/GCF_000023925.1_ASM2392v1_genomic.fna.gz
+Malassezia restricta,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/290/485/GCF_003290485.1_ASM329048v1/GCF_003290485.1_ASM329048v1_genomic.fna.gz
+Micrococcus luteus,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/023/205/GCF_000023205.1_ASM2320v1/GCF_000023205.1_ASM2320v1_genomic.fna.gz
+Mycobacterium avium,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/240/505/GCF_000240505.1_ASM24050v2/GCF_000240505.1_ASM24050v2_genomic.fna.gz
+Mycobacterium marinum,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/723/425/GCF_000723425.2_E11/GCF_000723425.2_E11_genomic.fna.gz
+Mycobacterium tuberculosis,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/195/955/GCF_000195955.2_ASM19595v2/GCF_000195955.2_ASM19595v2_genomic.fna.gz
+Neisseria bacilliformis,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/194/925/GCF_000194925.1_ASM19492v1/GCF_000194925.1_ASM19492v1_genomic.fna.gz
+Peptostreptococcus sp. Marseille-P4308,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/240/845/GCF_900240845.1_PRJEB23097/GCF_900240845.1_PRJEB23097_genomic.fna.gz
+Propionibacterium australiense,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/637/915/GCF_900637915.1_52941_B01/GCF_900637915.1_52941_B01_genomic.fna.gz
+Pseudomonas aeruginosa,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/006/765/GCF_000006765.1_ASM676v1/GCF_000006765.1_ASM676v1_genomic.fna.gz
+Sarcina sp. DSM 11001,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/101/015/GCF_900101015.1_IMG-taxon_2608642105_annotated_assembly/GCF_900101015.1_IMG-taxon_2608642105_annotated_assembly_genomic.fna.gz
+Staphylococcus aureus,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/013/425/GCF_000013425.1_ASM1342v1/GCF_000013425.1_ASM1342v1_genomic.fna.gz
+Staphylococcus epidermidis,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/007/645/GCF_000007645.1_ASM764v1/GCF_000007645.1_ASM764v1_genomic.fna.gz
+Staphylococcus haemolyticus,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/009/865/GCF_000009865.1_ASM986v1/GCF_000009865.1_ASM986v1_genomic.fna.gz
+Streptococcus viridans,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/636/365/GCF_900636365.1_41559_G01/GCF_900636365.1_41559_G01_genomic.fna.gz
+Trichophyton rubrum,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/151/425/GCF_000151425.1_ASM15142v1/GCF_000151425.1_ASM15142v1_genomic.fna.gz
+Trichophyton tonsurans,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/151/455/GCA_000151455.1_ASM15145v1/GCA_000151455.1_ASM15145v1_genomic.fna.gz
